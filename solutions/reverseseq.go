@@ -1,5 +1,5 @@
 // https://www.codewars.com/kata/5a00e05cc374cb34d100000d
-package solutions
+package test
 
 func ReverseSeq(n int) []int {
 	arr := make([]int, n)

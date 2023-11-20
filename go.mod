@@ -1,3 +1,3 @@
-module github.com/mrquaketotheworld/codewars
+module github.com/mrquaketotheworld/codewars-go
 
 go 1.21.3
